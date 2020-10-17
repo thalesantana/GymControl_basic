@@ -1,0 +1,78 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1585681614545-cd8c7b9d92b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Thales Cândido Santana",
+      "email": "thales.c.santana@outlook.com",
+      "birth": 868665600000,
+      "gender": "M",
+      "interests": "musculação, karate",
+      "blood": "A+",
+      "weight": "80",
+      "height": "180"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Marcela",
+      "email": "thales-lord@hotmail.com",
+      "birth": 376617600000,
+      "gender": "F",
+      "interests": "yoga,natação",
+      "blood": "B+",
+      "weight": "62",
+      "height": "162"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Helena",
+      "email": "helena@gmail.com",
+      "birth": 968716800000,
+      "gender": "F",
+      "interests": "yoga,natação",
+      "blood": "AB+",
+      "weight": "56",
+      "height": "162"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1585681614545-cd8c7b9d92b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Thales Santana",
+      "birth": 868665600000,
+      "gender": "M",
+      "services": "Muay Thai, Musculação",
+      "created_at": 1598952885280
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Marcela",
+      "birth": 807148800000,
+      "gender": "F",
+      "services": "Capoeira, Judo",
+      "created_at": 1598952940808
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Helena",
+      "birth": 970185600000,
+      "gender": "F",
+      "services": "yoga, dança",
+      "created_at": 1598952997275
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Sasha",
+      "birth": 832982400000,
+      "gender": "F",
+      "services": "yoga, dança, crossfit",
+      "created_at": 1598953188385
+    }
+  ]
+}
